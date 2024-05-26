@@ -65,9 +65,10 @@
 
 ### 📊 &nbsp; Git Analytics
 
- <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=ing-MARWA&rank_icon=percentile&hide=contribs,prs&show_icons=true&theme=dark"/a>
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ing-MARWA&rank_icon=percentile&hide=contribs,prs&show_icons=true&theme=dark" alt="Anurag's GitHub stats" />
 </div>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ing-MARWA&rank_icon=percentile&hide=contribs,prs&show_icons=true&theme=dark)
 
