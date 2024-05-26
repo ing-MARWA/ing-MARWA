@@ -65,7 +65,7 @@
 
 ### 📊 &nbsp; Git Analytics
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ing-MARWA&rank_icon=percentile&hide=contribs,prs&show_icons=true&theme=dark" alt="Anurag's GitHub stats" />
 </div>
 
