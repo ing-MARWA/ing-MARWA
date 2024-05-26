@@ -12,6 +12,8 @@
 - 🤔 I'm actively seeking jobs where I can apply my AI knowledge and learn from experienced professionals.
 - :speech_balloon: I'm always up for discussing AI, coding, or anything related to my career journey!
 
+<hr>
+
 <div align="left">
  <h3>🤝 &nbsp; Connect with Me</h3>
   <a href="https://www.linkedin.com/in/marwa-alshafei-9b29ba247/">
