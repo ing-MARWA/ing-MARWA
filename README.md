@@ -5,7 +5,9 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ing-MARWA.ing-MARWA&"  />
 </div>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ing-MARWA&theme=onedark)](https://github.com/ing-MARWA/github-profile-trophy)
+
 <h3 align="left">👩🏻‍💻  About Me</h3>
 
 <!-- TODO: Add last video link -->
