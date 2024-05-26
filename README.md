@@ -81,6 +81,5 @@
 
 <hr>
 
-<br clear="both">
+![Snake animation](https://raw.githubusercontent.com/ing-MARWA/ing-MARWA/output/snake.svg)
 
-<img src="https://github.com/ing-MARWA/ing-MARWA/blob/main/snake.yml" alt="Snake animation" />
