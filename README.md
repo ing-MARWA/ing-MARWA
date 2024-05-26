@@ -15,7 +15,7 @@
 <hr>
 
 <div align="left">
- <h3>🤝 &nbsp; Connect with Me</h3>
+ <h3>📨 &nbsp; Connect with Me</h3>
   <a href="https://www.linkedin.com/in/marwa-alshafei-9b29ba247/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"></a>
  <a href="mailto:meroessam92002@gmmail.com">
@@ -56,6 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
 </div>
 
+<hr>
 
 ### 🛠 &nbsp; Tech Stack
 
