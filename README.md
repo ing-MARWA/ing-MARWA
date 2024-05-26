@@ -70,4 +70,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ing-MARWA&theme=vue-dark&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/ing-MARWA/github-readme-stats)
 
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ing-MARWA&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+
 
