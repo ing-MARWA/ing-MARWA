@@ -65,17 +65,17 @@
 
 ### 📊 &nbsp; Git Analytics
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ing-MARWA&rank_icon=percentile&hide=contribs,prs&show_icons=true&theme=dark" alt="Anurag's GitHub stats" />
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/ing-MARWA/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ing-MARWA&theme=vue-dark&size_weight=0.5&count_weight=0.5&layout=donut" alt="Top Langs" />
   </a>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=ing-MARWA&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
