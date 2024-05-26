@@ -83,4 +83,4 @@
 
 <br clear="both">
 
-<img src="snake.yml" alt="Snake animation" />
+<img src="https://github.com/ing-MARWA/ing-MARWA/blob/main/snake.yml" alt="Snake animation" />
