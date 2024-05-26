@@ -13,9 +13,10 @@ I'm Marwa Alshafei, a passionate Artificial Intelligence fresh graduate 💻.
 - :speech_balloon: I'm always up for discussing AI, coding, or anything related to my career journey!
 
 🤝 &nbsp; Connect with Me
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/navodya-pasqual-11ba801b1/)
-<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+<div align="center">
+  [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />](https://www.linkedin.com/in/marwa-alshafei-9b29ba247/)
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
 
 <hr>
 
