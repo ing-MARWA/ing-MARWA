@@ -69,4 +69,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ing-MARWA&theme=vue-dark&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/ing-MARWA/github-readme-stats)
 
-
+ <hr>
+ 
+<img src="https://raw.githubusercontent.com/ing-MARWA/ing-MARWA/output/snake.svg" alt="Snake animation" />
