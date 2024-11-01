@@ -12,7 +12,7 @@
 
 <!-- TODO: Add last video link -->
 
-- :seedling: I'm diving deep into deep learning to enhance my coding skills for building robust AI projects. 
+- :seedling: I'm diving deep into Generative AI to enhance my coding skills for building robust AI projects. 
 - :computer: My go-to code for starting a new AI project is always `git commit -m "Initial Commit"`.  
 - 🤔 I'm actively seeking jobs where I can apply my AI knowledge and learn from experienced professionals.
 - :speech_balloon: I'm always up for discussing AI, coding, or anything related to my career journey!
@@ -21,9 +21,9 @@
 
 <div align="left">
  <h3>📨 &nbsp; Connect with Me</h3>
-  <a href="https://www.linkedin.com/in/marwa-alshafei-9b29ba247/">
+  <a href="www.linkedin.com/in/marwa-alshafei">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"></a>
- <a href="mailto:meroessam92002@gmmail.com">
+ <a href="mailto:marwa.essam.alshafei@gmmail.com">
    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"></a>
 </div>
 
